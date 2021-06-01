@@ -14,6 +14,8 @@ const getLocalStorage = () => {
   }
 };
 
+console.log('hello');
+
 function App() {
 
   const [ name, setName ] = useState('');
