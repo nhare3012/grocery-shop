@@ -14,7 +14,7 @@ const getLocalStorage = () => {
   }
 };
 
-console.log('hello');
+
 
 function App() {
 
